@@ -1,5 +1,5 @@
-import Calculadora from "./calculadora";
+const calculadora = require("./calculadora")
 
 describe("Calculadora", () => {
-    
+
 })
