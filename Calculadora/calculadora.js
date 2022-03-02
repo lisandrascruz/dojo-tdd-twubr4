@@ -1,5 +1,7 @@
-const Calculadora = () => {
-
+class Calculadora {
+  static soma() {
+    //to-do
+  }
 }
 
-module.exports = Calculadora
+module.exports = Calculadora;
