@@ -1,6 +1,10 @@
 class Calculadora {
-  static soma() {
-    //to-do
+  static soma(valor1, valor2) {
+    return valor1 + valor2;
+  }
+
+  static subtracao(valor1, valor2) {
+    return valor1 - valor2;
   }
 }
 
